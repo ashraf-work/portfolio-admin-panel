@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Admin Panel | Portfolio",
-  description: "Portfolio admin panel of Sahil Khandekar",
+  description: "Portfolio admin panel of Ashraf Saleem",
 };
 
 export default function RootLayout({ children }) {

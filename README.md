@@ -1,14 +1,14 @@
-# Admin Panel — Sahil Khandekar Portfolio
+# Admin Panel — Ashraf Saleem Portfolio
 
-An **Admin Panel** for managing the content of Sahil Khandekar's portfolio website. This panel allows you to update **About, Projects, Achievements, Experience, Twitter, and Blogs** easily through a user-friendly interface.
+An **Admin Panel** for managing the content of Ashraf Saleem portfolio website. This panel allows you to update **About, Projects, Achievements, Experience, Twitter, and Blogs** easily through a user-friendly interface.
 
-<img width="1919" height="1079" alt="image" src="https://dzdw2zccyu2wu.cloudfront.net/github/admin-panel.png" />
+<img width="1919" height="1079" alt="image" src="https://d3r6jzg6dzly3e.cloudfront.net/github/portfolio-admin-panel.png" />
 
 
 ## Live & Code
 
-- **Live Demo:** [admin.sahilkhandekar.dev](https://admin.sahilkhandekar.dev/)
-- **Main Portfolio:** [sahilkhandekar.dev](https://sahilkhandekar.dev/)
+- **Live Demo:** [admin.ashrafsaleem.online](https://admin.ashrafsaleem.online/)
+- **Main Portfolio:** [ashrafsaleem.online](https://ashrafsaleem.online/)
 
 ## Features
 
@@ -34,12 +34,12 @@ An **Admin Panel** for managing the content of Sahil Khandekar's portfolio websi
 
 ## Deployment
 
-The admin panel is deployed on **Vercel** with a custom domain `admin.sahilkhandekar.dev`.
+The admin panel is deployed on **Vercel** with a custom domain `admin.ashrafsaleem.online`.
 
 
 <div align="center">
 
-Made with ❤️ and clean code by **Sahil Khandekar**
+Made with ❤️ and clean code by **Ashraf Saleem**
 
 *"Code. Create. Inspire."*
 
